@@ -1,0 +1,61 @@
+The best way to use patterns is to load
+your brain with them and then recognize
+places in your designs and existing applicaions
+where you can apply them.
+
+================Bad Inheritance=====================================
+
+You have superclass and subclass but some subclasses
+does not implement some methods of superclasses.
+To get around this, you overridden those methods in subclasses
+with empty methods.
+
+The above is bad inheritance.
+Here inheritance seems promising. You can create Inheritance for those methods
+and subclass will implement those interface only if their behavior
+matches with the methods.
+
+The problem is if we have to change the method, we have to change it in all of
+the subclasses that implmented the interface (and thus the method).
+
+Design Principle
+Indentify the aspects of your application that vary and
+separate them from what stays the same.
+
+In our Duck case,
+to separate the parts that change from those that stay the same.
+We are going to create two sets of classes (totally apart from Duck),
+one for fly and one for quack. Each sets of classes will hold all the
+implementations of their respective behavior.
+
+Design Principle: Program to an interface, not an implementation.
+
+
+HAS-A can be better than IS-A:
+Each duck has a FlyBehavior and QuackBehavior to which it
+delegates flying and quacking. Instead of inheriting their
+behavior, the ducks get their behavior by being composed with
+the right behavior object. This is called Composition.
+
+Desgin Principle: Favor Composition over inheritance
+
+1. Strategy Pattern:
+    defines a family of algorithms, encapsulates each one, and
+    makes them interchangeable. Strategy lets the algorithm var
+    independently from clients that use it.
+
+
+
+Publishers + Subscribers = Observer Pattern
+When you are trying to picture the Observer pattern, a newspaper
+susbscription service with its publisher and subscribers is a good way
+to visualize the pattern.
+
+The observer patter defines a one to many dependency between
+objects so that when one object changes state, all of its dependents
+are notified and updated automatically.
+
+Design Principle:
+Strive for loosely coupled designs
+between objects that interact.
+
