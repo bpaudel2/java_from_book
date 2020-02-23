@@ -2,65 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6118788a-e5c7-489e-9efb-805fb33d05af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/StrategyDesignPattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/ObserverDesignPattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/WeatherObserver.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/GrameFramework/board/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/GrameFramework/board/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/GrameFramework/test/UnitTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/GrameFramework/unit/Unit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/GrameFramework/unit/UnitGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step1/FindGuitarTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step1/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step1/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step2/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step2/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step2/GuitarSpec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step2/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step2/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step2/Wood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step3/DogDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step3/DogDoorSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step3/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step4/DogDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step4/DogDoorSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step4/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step5/Bark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step5/BarkRecognizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step5/DogDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step5/DogDoorSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step5/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step6/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step6/FindInstrumentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step6/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step6/InstrumentSpec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step6/InstrumentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step6/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step6/Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step6/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/step6/Wood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Weather.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/SwingObserverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/WeatherData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Maven/demo-program/src/Circle.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Maven/demo-program/src/Figure.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Maven/demo-program/src/FigureWindow.java" beforeDir="false" />
@@ -89,6 +33,8 @@
       <change beforePath="$PROJECT_DIR$/../bitbucket/JAVA_Assignment_Bikram/java_assignment_bikram" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.mapnep/com.mapnep" beforeDir="false" afterPath="$PROJECT_DIR$/../com.mapnep/com.mapnep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../first.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -99,11 +45,89 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/Weather/WeatherObserver.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/Weather.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/Weather/WeatherData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/Weather/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/WeatherData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/SwingObserverExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
+                <element signature="e#1100#1101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/CurrentConditionsDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -113,14 +137,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/step2/GuitarSpec.java" />
-        <option value="$PROJECT_DIR$/src/main/java/step2/Inventory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/step2/Type.java" />
         <option value="$PROJECT_DIR$/src/main/java/step2/Wood.java" />
         <option value="$PROJECT_DIR$/src/main/java/OOP/step2/Wood.java" />
         <option value="$PROJECT_DIR$/src/main/java/OOP/step3/DogDoor.java" />
@@ -169,14 +190,17 @@
         <option value="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/WeatherData.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/CurrentConditionsDisplay.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignPattern/Weather/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/CurrentConditionsDisplay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/SwingObserverExample.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="949" />
-    <option name="y" value="-11" />
-    <option name="width" value="983" />
-    <option name="height" value="1043" />
+    <option name="x" value="948" />
+    <option name="y" value="-12" />
+    <option name="width" value="984" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -185,6 +209,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,11 +217,43 @@
               <item name="java_from_book" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_from_book" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java_from_book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_from_book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_from_book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_from_book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_from_book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_from_book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_from_book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_from_book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_from_book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_from_book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,7 +283,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SwingObserverExample">
+    <configuration name="SwingObserverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.javabuiltinobserver.SwingObserverExample" />
+      <module name="java_from_book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.javabuiltinobserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPattern.Weather.WeatherStation" />
       <module name="java_from_book" />
@@ -242,6 +312,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwingObserverExample" />
         <item itemvalue="Application.WeatherStation" />
       </list>
     </recent_temporary>
@@ -262,78 +333,38 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20080972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33927125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Tool Output" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="ANTLR Preview" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3285968" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Tool Output" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/Instrument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="2" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/step6/Instrument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/InstrumentSpec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="80" column="1" lean-forward="true" selection-start-line="2" selection-end-line="80" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/step6/InstrumentSpec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/InstrumentType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="2" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/InstrumentType.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/OOP/step6/InstrumentType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -341,16 +372,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/Inventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="53" selection-start-line="2" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/Inventory.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/OOP/step6/Inventory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
@@ -362,13 +384,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/Style.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/Style.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/OOP/step6/Style.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -376,13 +392,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/Type.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="2" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/Type.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/OOP/step6/Type.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -390,13 +400,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/Wood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="28" lean-forward="true" selection-start-line="2" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/OOP/step6/Wood.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/OOP/step6/Wood.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -407,48 +411,12 @@
     <entry file="file://$PROJECT_DIR$/java_from_book.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="37" column="1" lean-forward="true" selection-end-line="37" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/FlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/FlyNoWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="1" lean-forward="true" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/FlyRocketPowered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="1" lean-forward="true" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/FlyWithWings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/Duck.java" />
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/FlyBehavior.java" />
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/FlyNoWay.java" />
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/FlyRocketPowered.java" />
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/FlyWithWings.java" />
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/MallardDuck.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/FlyBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -477,13 +445,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/MiniDuckSimulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/MiniDuckSimulator.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/MiniDuckSimulator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -491,13 +453,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/ModelDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="1" lean-forward="true" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/ModelDuck.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/MallardDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -505,20 +461,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/MuteQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="1" lean-forward="true" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/Quack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/MuteQuack.java" />
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/Quack.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/Quack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -551,13 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/QuackBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/SimUDuck/QuackBehavior.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/SimUDuck/QuackBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -565,72 +503,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/doc.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Weather.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/doc.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/Weather/ObserverDesignPattern.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/Weather/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/Weather/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/Weather/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/Weather/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/Weather/CurrentConditionDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/Weather/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/Weather/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/Weather/DisplayElement.java" />
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/Weather/Observer.java" />
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/Weather/Subject.java" />
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/Weather/WeatherData.java" />
+    <entry file="file://$PROJECT_DIR$/java_from_book/DesginPattern/Weather/CurrentConditionDisplay.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/Weather/DisplayElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -656,6 +537,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/Weather/WeatherObserver.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Weather.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/Weather/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/Weather/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/javabuiltinobserver/SwingObserverExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
